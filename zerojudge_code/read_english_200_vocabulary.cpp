@@ -1,0 +1,16 @@
+   a   b   c   d   e   f   g   h   i   j   k   l   m   n   o   p   q   r   s   t   u   v   w   x   y   z
+   1   2   3   4   5   6   7   8   9  10  11  12  13  14  15  16  17  18  19  20  21  22  23  24  25  26
+   1   2   3   4   5   6   7   8   9  10  11  11  12  13  14  15  16  16  17  18  19  20  21  no  22  22
+  23  24  25  26  27  28  29  30  31  no  no  32  33  34  35  36  no  37  38  39  40  41  42  no  no  no
+  43  44  45  46  47  48  49  50  51  no  no  52  53  no  54  55  no  56  57  58  no  59  no  no  no  no
+  60  61  62  63  64  65  66  no  67  no  no  no  68  no  no  69  no  70  71  72  no  no  no  no  no  no
+  73  74  75  76  77  78  no  no  79  no  no  no  80  no  no  81  no  82  83  84  no  no  no  no  no  no
+  85  no  86  87  88  no  no  no  89  no  no  no  90  no  no  91  no  92  93  no  no  no  no  no  no  no
+  94  no  95  96  97  no  no  no  98  no  no  no  99  no  no 100  no 101 102  no  no  no  no  no  no  no
+ 103  no 104 105 106  no  no  no  no  no  no  no 107  no  no 108  no  no 109  no  no  no  no  no  no  no
+ 110  no 111  no  no  no  no  no  no  no  no  no  no  no  no 112  no  no 113  no  no  no  no  no  no  no
+ 114  no 115  no  no  no  no  no  no  no  no  no  no  no  no 116  no  no 117  no  no  no  no  no  no  no
+  no  no 118  no  no  no  no  no  no  no  no  no  no  no  no 119  no  no 120  no  no  no  no  no  no  no
+  no  no 121  no  no  no  no  no  no  no  no  no  no  no  no 122  no  no 123  no  no  no  no  no  no  no
+  no  no 124  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no 125  no  no  no  no  no  no  no
+  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no
